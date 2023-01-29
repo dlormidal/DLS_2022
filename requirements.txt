@@ -16,7 +16,6 @@ boto3
 Pillow
 pandas
 
+opencv_python
 mmcv-full
 mmdet
-#libgl1
-#opencv
