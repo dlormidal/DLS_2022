@@ -18,8 +18,10 @@ from resnet_model import ResnetModel
 import torch, torchvision
 import mmdet
 import mmcv
-from mmcv.ops import get_compiling_cuda_version, get_compiler_version
-from mmdet.apis import inference_detector, init_detector, show_result_pyplot
+#from mmcv.ops import get_compiling_cuda_version, get_compiler_version
+#from mmdet.apis import inference_detector, init_detector, show_result_pyplot
+print(mmdet.apis)
+
 
 #Choose to use a config and initialize the detector
 config2 = 'configs/mask_rcnn/mask_rcnn_r50_caffe_fpn_mstrain-poly_3x_coco.py'
