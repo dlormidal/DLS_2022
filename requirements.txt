@@ -17,7 +17,7 @@ Pillow
 pandas
 
 opencv_python
-#mmcv-full
-#mmdet
-mmcv==0.6.2
-mmdet==2.2.1
+mmcv-full
+mmdet
+#mmcv==0.6.2
+#mmdet==2.2.1
