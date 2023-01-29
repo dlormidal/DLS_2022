@@ -18,4 +18,4 @@ pandas
 
 mmcv-full
 mmdet
-opencv
+#opencv
