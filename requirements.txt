@@ -24,8 +24,8 @@ boto3==1.17.3
 
 Pillow
 pandas
-torch==1.7.1
-torchvision==0.8.2
+torch
+torchvision
 #opencv_python
 mmcv-full==1.6.1
 #mmcv
