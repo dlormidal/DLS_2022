@@ -26,7 +26,6 @@ Pillow==7.0.0
 numpy
 pandas
 sklearn
-gcc==7.5
 torch==1.7.1+cu110
 torchvision==0.8.2+cu110
 comet==3.9.0
