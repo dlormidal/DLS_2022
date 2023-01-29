@@ -26,8 +26,9 @@ Pillow
 pandas
 torch
 torchvision
-#opencv_python
-mmcv-full==1.6.1
+opencv_python
+mmcv-full==1.7.0 -f https://download.openmmlab.com/mmcv/dist/cu117/torch1.13/index.html
+#mmcv-full==1.6.1
 #mmcv
 mmdet
 
