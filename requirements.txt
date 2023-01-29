@@ -23,7 +23,6 @@
 #mmdet==2.2.1
 
 Pillow==7.0.0
-numpy
 pandas
 sklearn
 torch==1.7.1
