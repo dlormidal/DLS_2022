@@ -18,5 +18,5 @@ pandas
 
 mmcv-full
 mmdet
-libgl1
+#libgl1
 #opencv
