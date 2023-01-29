@@ -27,7 +27,7 @@ pandas
 torch==1.7.1
 torchvision==0.8.2
 #opencv_python
-mmcv-full
+mmcv-full=1.6.0
 #mmcv
 mmdet
 
