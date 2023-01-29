@@ -14,6 +14,7 @@ import numpy as np
 from resnet_model import ResnetModel
 
 #start changes
+import cv2
 import torch, torchvision
 import mmdet
 from mmcv.ops import get_compiling_cuda_version, get_compiler_version
