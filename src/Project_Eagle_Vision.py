@@ -19,8 +19,8 @@ import torch, torchvision
 import mmdet
 import mmcv
 #from mmcv.ops import get_compiling_cuda_version, get_compiler_version
-#from mmdet.apis import inference_detector, init_detector, show_result_pyplot
-from mmdet.apis.inference import inference_detector
+from mmdet.apis import inference_detector, init_detector, show_result_pyplot
+#from mmdet.apis.inference import inference_detector
 #print(dir(mmdet))
 
 
